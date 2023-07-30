@@ -1,4 +1,4 @@
--e git+ssh://git@github.com/cmsouza/aleksay.git@3338aefa4939b319331e2317da3f1b31a3a4fe50#egg=aleksay
+aleksay @ git+https://github.com/cmsouza/aleksay.git@7014257b0d138bcebb00e0c6115afba2d65a4e8f
 blinker==1.6.2
 click==8.1.6
 Flask==2.3.2
