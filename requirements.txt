@@ -1,4 +1,4 @@
-aleksay @ git+https://github.com/cmsouza/aleksay.git@7014257b0d138bcebb00e0c6115afba2d65a4e8f
+aleksay @ git+https://github.com/cmsouza/aleksay@fb2f5ebcf9cbcc7fffd5051c2581f1125e3db304
 blinker==1.6.2
 click==8.1.6
 Flask==2.3.2
